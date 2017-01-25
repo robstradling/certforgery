@@ -1,25 +1,4 @@
-# Methods for Preventing Certificate Forgery due to Chosen-Prefix Collisions
-
-This is the working area for the Individual internet-draft, "Methods for Preventing Certificate Forgery due to Chosen-Prefix Collisions".
-
-* [Editor's copy](https://robstradling.github.io/certforgery/)
-* [Individual Draft] (https://tools.ietf.org/html/draft-strad-certforgery)
-* [Compare Individual Draft and Editor's copy] (https://tools.ietf.org/rfcdiff?url1=https://tools.ietf.org/id/draft-strad-certforgery.txt&url2=https://robstradling.github.io/certforgery/draft-strad-certforgery.txt)
-
-
-## Building the Draft
-
-Formatted text and HTML versions of the draft can be built using `make`.
-
-```sh
-$ make
-```
-
-This requires that you have the necessary software installed.  See [the
-instructions](https://github.com/martinthomson/i-d-template/blob/master/doc/SETUP.md).
-
-
-## Contributing
+# Contributing
 
 Before submitting feedback, please familiarize yourself with our current issues
 list and review the [working group
